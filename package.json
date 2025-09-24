@@ -1,0 +1,23 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "description": "Página de links para redes sociais",
+  "main": "arrayseobjetos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natanas19/LInks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natanas19/LInks/issues"
+  },
+  "homepage": "https://github.com/Natanas19/LInks#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
