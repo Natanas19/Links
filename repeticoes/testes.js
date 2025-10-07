@@ -13,12 +13,22 @@
 //     soma = soma + nota
 // }
 
-// alert("soma " + soma) 
+// 🐱‍🏍Calcule a soma dos números de 1 a 100.
 
-// for(let i = 0; i<10; i++){
-//     alert("Quadrado de " (i) + "=" + (i * i))}
- let i = 0
- while(i<10){
-    i++
-    alert("Valor do i:" + i + "quadrado =" + (i*i))
- }
+// for (let i =1; i<=100; i+=i){
+//     alert("Soma igual a "+ soma)
+// }
+
+// for (let i =1; i<=100; i++){
+//      soma = i + i
+//      alert("Soma igual a "+ soma)
+//      console.log(soma)
+// }
+
+// let numero = Number(prompt("tabuada de: "))
+
+// for (let i = 1; i<=10; i++){
+//     let resultado = i * numero
+//     alert(i + "x" + numero + " = " + resultado) i%2 == 1
+// }
+
